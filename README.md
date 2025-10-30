@@ -1,5 +1,5 @@
 <h1>Exp No 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: Yuvashree S Y</h3>
+<h3>Name: Yuvashree S </h3>
 <h3>Register Number: 212223040251 </h3>
 
 <H3>Aim:</H3>
